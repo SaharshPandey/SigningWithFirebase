@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "170027020105",
+    "firebase_url": "https://signingwithfirebase.firebaseio.com",
+    "project_id": "signingwithfirebase",
+    "storage_bucket": "signingwithfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170027020105:android:3e511b1eaf962d3b",
+        "android_client_info": {
+          "package_name": "com.example.iknownothing.signingwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170027020105-b270hqfvj2g0nh0e3no6nfb79k9629od.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "170027020105-b270hqfvj2g0nh0e3no6nfb79k9629od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zCWSeXMQcUuBPv4JqfyGs7hwUlpb0Uo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
