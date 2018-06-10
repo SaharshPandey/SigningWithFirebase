@@ -7,6 +7,33 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/user2"
+        android:layout_width="303dp"
+        android:layout_height="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="149dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/user3"
+        android:layout_width="303dp"
+        android:layout_height="58dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="206dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/user4"
+        android:layout_width="303dp"
+        android:layout_height="58dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="106dp"
+        android:gravity="center" />
+
+    <TextView
         android:id="@+id/user"
         android:layout_width="303dp"
         android:layout_height="58dp"
